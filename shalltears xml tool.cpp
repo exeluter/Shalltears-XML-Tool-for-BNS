@@ -1,4 +1,3 @@
-//pascal giebeler
 #include<iostream>
 #include<fstream>
 #include<string>
